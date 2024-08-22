@@ -4,7 +4,7 @@ publication: https://ieeexplore.ieee.org/abstract/document/8682767
 
 Jupyter Notebooks:
   
-  pain_tf.ipynb: PAIN architecture in tensorflow applied to MNIST numbers<br>
-  pics_tf.ipynb: PICS architecture in tensorflow applied to  MNIST numbers<br>
-  sda_tf.ipynb: SDA architecture in tensorflow applied to  MNIST numbers<br>
-  pain_emnist_tf.ipynb: PAIN architecture in tensorflow appied to EMNIST letters<br>
+  <b><em>pain_tf.ipynb</em></b>: PAIN architecture in tensorflow applied to MNIST numbers<br>
+  <b>pics_tf.ipynb</em></b>: PICS architecture in tensorflow applied to  MNIST numbers<br>
+  <b>sda_tf.ipynb</em></b>: SDA architecture in tensorflow applied to  MNIST numbers<br>
+  <b>pain_emnist_tf.ipynb</em></b>: PAIN architecture in tensorflow appied to EMNIST letters
