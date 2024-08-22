@@ -3,6 +3,7 @@
 
 # MNIST and EMNIST data
 *.h5 
+training_data/
 
 # macOS specific files
 .DS_Store        # Stores custom attributes of a folder such as icon position
