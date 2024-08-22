@@ -1,0 +1,39 @@
+# Jupyter Notebook checkpoints file 
+.ipynb_checkpoints
+
+# MNIST and EMNIST data
+*.h5 
+
+# macOS specific files
+.DS_Store        # Stores custom attributes of a folder such as icon position
+.AppleDouble     # Resource fork files
+.LSOverride      # Finder information
+
+# Thumbnails
+._*              # Thumbnail of files (e.g., `._filename`)
+
+# macOS aliases
+.Spotlight-V100/ # Metadata used by Spotlight, macOS's search feature
+.Trashes/        # Files in the Trash
+.VolumeIcon.icns # Custom volume icons
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup files
+Icon?            # Icon files within folders
+._.DS_Store      # Backup of .DS_Store
+
+# Temporary files
+*.swp            # Swap files (e.g., for Vim)
+*.lock           # Lock files (used by some applications)
+*.tmp            # Temporary files
+
+# Logs and crash reports
+*.log            # Log files
+*.crash          # Crash reports
+
+# macOS system files
+Desktop.ini      # Windows desktop file, but sometimes macOS touches this
+Thumbs.db        # Windows thumbnail cache, but macOS might create this too
+
