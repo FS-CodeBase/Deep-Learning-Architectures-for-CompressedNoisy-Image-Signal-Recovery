@@ -1,4 +1,4 @@
-# DeepLearning for low resolution photon limited imaging
+# DeepLearning for low-resolution photon-limited imaging
 Code implementing the architectures in IEEE
 publication: https://ieeexplore.ieee.org/abstract/document/8682767
 
