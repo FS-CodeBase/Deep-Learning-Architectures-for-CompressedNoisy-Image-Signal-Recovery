@@ -1,6 +1,6 @@
 # DeepLearning for low-resolution photon-limited imaging
 Code implementing the architectures in IEEE
-publication: https://ieeexplore.ieee.org/abstract/document/8682767
+publication: <a href="https://ieeexplore.ieee.org/abstract/document/8682767">Deep Neural Networks for Low-resolution Photon-limited Imaging</a>
 
 <strong>Jupyter Notebooks:</strong>
   
