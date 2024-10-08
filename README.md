@@ -1,5 +1,5 @@
 # DeepLearning for low-resolution photon-limited imaging
-Code implementing the architectures in IEEE
+Code implementing the architectures in our IEEE
 publication: <a href="https://ieeexplore.ieee.org/abstract/document/8682767">Deep Neural Networks for Low-resolution Photon-limited Imaging</a>
 
 <img src="figures/mnist_reconstruct_7x7_testset_PAIN.png" alt="Application of PAIN Architecture to EMNIST images." width="550" />
